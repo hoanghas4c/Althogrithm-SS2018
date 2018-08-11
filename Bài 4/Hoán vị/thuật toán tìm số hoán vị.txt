@@ -1,0 +1,11 @@
+﻿Thuật toán tìm số hoán vị bé nhất mà lớn hơn số ban đầu
+
+VD : số x = 762018294321
+
+thì số đảo y =  762018[3]12[2]49
+
+CÔng thức tìm :
+ B1 : Duyệt ngược tìm điểm gãy ( là điểm mà đang tăng thì giảm, trong số x là số 2 thứ hai từ dưới lên)
+ B2 : Duyệt ngược tìm điểm vượt ( điểm vượt là điểm > điểm gãy khi duyệt ngược)
+ B3 : Đổi chỗ vượt - gãy.
+ B4 : Lật hai đoạn cuối ( hai đoạn giữa điểm gãy và vượt )

@@ -1,0 +1,49 @@
+﻿View principle : có thể quan sát sự vật hiện tượng khác nhau, chọn góc và khung nào thì phải TRUNG THÀNH  với khung đó.
+
+KISS :  Keep It Stupid Simple
+
+1, Tôn trọng cái view của mỗi người
+2, Có quyền view nhiều khía cạnh của một vật, nhưng chọn VIEW KISS.
+
+
+IBM : Clean room technology.
+
+Hãy bắt đầu bằng 1 chương trình rỗng, chương trình rỗng là phòng sạch.
+
+HÃY GIỮ PHÒNG LUÔN SẠCH.
+
+Mỗi vật đưa 1 vật vào phòng và vệ sinh vật đó ngay.( 1 lần 1 lệnh và khử hết lỗi )
+
+
+------------------------------------------------------ BÀI I: ĐỒ THỊ (GRAPH) --------------------------------------------------------------------------
+
+
+Đồ thị liên thông là đồ thị mà tại đó các điểm có thể đi được tới nhau theo bất kì cách nào. 
+ĐIỂM NÚT là điểm mà nếu mất đi thì độ thị không liên thông nữa.
+
+BÀI TOÁN YÊU CẦU :
+
+Cho 1 file dữ liệu cho 1 số và các điểm nối với nhau theo tọa độ các điểm.
+
+9
+1 2
+1 4
+2 8
+3 4
+3 9
+3 6
+4 6
+4 9
+5 6
+6 7
+8 9
+9 4
+0 0
+
+YÊU CẦU : 
+
+In ra được số điểm
+In ra số đường thẳng
+Đồ thị có bao nhiêu phần liên thông
+In ra điểm nút của mỗi phần và các điểm khác trong mạng đó
+

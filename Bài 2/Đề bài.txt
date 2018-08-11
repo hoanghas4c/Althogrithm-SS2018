@@ -1,0 +1,34 @@
+﻿
+
+BÀI 1: Tìm tổng các số nguyên tố dưới 2 triệu
+Sum of all primes below 2 millions.
+
+----------------LỜI KHUYÊN-----------------
+
++) Hãy tái sử dụng code:
+----"REUSE"----
+
+Nguyên nhân ta kém:
+
++) Không dùng.
+
++) Dùng đơn điệu.
+
+
+BÀI 2 : Natural numbers are divided into 3 groups : 1 /prime numbers / Composite
+
+ Number = sum actual Fac ==> Perfect Nmber
+
+Pure Fac means the factors of a number except itself
+
+Ex: 6 has 3 pure factors: 1 2 3
+
+n > sum fac : số dôi
+n < sum fac : số hụt
+
+
+In 2M numbers find out there are how many perfect numbers, dôi numbers and hụt numbers
+
+
+Cây khung có n đỉnh thì có n-1 cạnh.
+

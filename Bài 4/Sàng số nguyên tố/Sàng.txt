@@ -1,0 +1,9 @@
+﻿Cách làm
+
+Gán toàn bộ các phần tử dưới n bằng mảng đánh dấu
+ với gtri  = 0;
+sau đó cho chạy i từ 2 -> căn n
+nếu cái phần tử đánh dấu tại i  = 0 cho chạy j
+sẽ thay đổi phần tử đánh dấu các bội của i = 1;
+
+Các phần tử nào có phần tử đánh dấu = 0 là snt
